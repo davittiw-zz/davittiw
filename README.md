@@ -4,7 +4,7 @@
  
  ### Tecnologies
 
-💻 I intend to C, C++ and Python. i will learn other languages as needed.
+📄 I intend to C, C++ and Python. I will learn other languages as needed.
 
 🎮 I want to become a full-stack developer and also work with game development.
 
