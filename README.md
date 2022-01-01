@@ -2,7 +2,7 @@
 
 👾 I'm a brazilian full-stack developer.
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="600" height="250">
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="600" height="300">
  
  ### Tecnologies :D
 <img src="https://img.shields.io/badge/HTML-3455EB?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-2F50D4?style=for-the-badge&logo=javascript&logoColor=white">
