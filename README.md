@@ -1,6 +1,8 @@
 ### Hi there, I'm Luccas 👋
 
 🇧🇷 I'm a brazilian full-stack developer.
+
+<img src="">
  
  ### Tecnologies
 
