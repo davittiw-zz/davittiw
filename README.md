@@ -2,11 +2,11 @@
 
 👾 I'm a brazilian full-stack developer.
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="600" height="300">
+<img src="https://i.pinimg.com/originals/9c/e8/7b/9ce87b79af40a4ecbdb07b1f423b707f.gif" width="600" height="300">
  
  ### Tecnologies :D
-<img src="https://img.shields.io/badge/HTML-3455EB?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-2F50D4?style=for-the-badge&logo=javascript&logoColor=white">
- <img src="https://img.shields.io/badge/CSS-4236F6?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-22E635?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-40D92B?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/CSS-4BF04A?&style=for-the-badge&logo=css3&logoColor=white">
  <hr>
 
 📄 I intend to learn C, C++ and Python. I will learn other languages as needed.  
