@@ -1,6 +1,6 @@
 ### Hi there, I'm Luccas 👋
 
-👾 I'm a brazilian full-stack developer.
+🕸 I'm a brazilian full-stack developer.
 
 <img src="https://i.pinimg.com/originals/9c/e8/7b/9ce87b79af40a4ecbdb07b1f423b707f.gif" width="500" height="300">
  
