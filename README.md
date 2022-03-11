@@ -1,6 +1,6 @@
 ### hello world <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/davizoka#1450">
   <img align="left" alt="davittiw's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 
@@ -28,10 +28,7 @@ i want to become a full-stack developer and also work with game development.
 
 **languages and tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<img src="https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1B4766?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-144C47?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/JS-1C4361?style=for-the-badge&logo=javascript&logoColor=white"/>
 
 <!--END_SECTION:waka-->
 
