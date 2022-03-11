@@ -21,7 +21,7 @@ i'm also an open source enthusiast. i'm learning a lot from the open source comm
 i intend to learn c, c++ and python. i will learn other languages as needed.           
 i want to become a full-stack developer and also work with game development.  
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/bc/fb/66/bcfb660f3e6865cd73eda9132801821f.gif" width="550" height="300" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/bc/fb/66/bcfb660f3e6865cd73eda9132801821f.gif" width="500" height="300" />
   
 - any freelance work? do reach, [email](mailto:lucctyte@gmail.com) :)
 - ask me about anything :p
